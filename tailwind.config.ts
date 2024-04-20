@@ -17,6 +17,7 @@ const config: Config = {
 				primary: '#000000',
 				secondary: '#FFFFFF',
 				third: '#F0F0F0',
+				'black-rgba': 'rgba(0, 0, 0, 0.7)',
 			},
 		},
 	},
